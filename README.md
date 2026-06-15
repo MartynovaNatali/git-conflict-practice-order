@@ -1,2 +1,9 @@
-# pizza-scenario-git
-ДЗ  
+# Git: конфликты и ветки
+
+## Что сделано
+
+- ✅ Создан репозиторий и файл `scenario-pizza-order.md`
+- ✅ Созданы ветки `fix-address` и `fix-typo`
+- ✅ В каждой ветке изменена **одна и та же строка** по-разному
+- ✅ Созданы Pull Request'ы
+- ✅ <span style="color: red">**Merge-конфликт**</span> создан и успешно разрешён
